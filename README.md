@@ -3,7 +3,7 @@
 Esitelmä ja työpaja Ropeconissa 2023. Kelmut löytyvät 
 [täältä](https://github.com/giuthas-talks/Ropecon2023/blob/main/kielen_lainaaminen_ja_fantastinen_puhe.pdf).
 
-A talks and a workshops workshop I gave at Ropecon in Helsinki in summer of 2022. These evolved 
+A talks and a workshops workshop I gave at Ropecon in Helsinki in July 2023. These evolved 
 from two talks at [Indiana Comicon 2022 (slides in English)](https://github.com/giuthas-talks/Comicon2022) 
 and two talks and two workshops (delivered in Finnish and English) at 
 [Ropecon 2022 (slides in English)](https://github.com/giuthas-talks/Ropecon2022):
